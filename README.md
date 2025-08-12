@@ -43,6 +43,6 @@ Overall, the flow of the application should look something like this:
 2. Open a terminal and type `npm install` to install the dependencies.
 3. Then type `npm run dev` to start the server locally on port `5173`.
 4. Open any browser and navigate to `http://localhost:5173` to view this application.
-5. Alternatively, I have deployed the application here: [Tours](https://www.tours-prashin.netlify.app) 
+5. Alternatively, I have deployed the application here: [Tours](https://tours-prashin.netlify.app) 
 
 You can visit and checkout this as well.
